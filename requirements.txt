@@ -1,0 +1,4 @@
+transformers==4.38.1
+torch
+faiss-cpu
+PyPDF2
